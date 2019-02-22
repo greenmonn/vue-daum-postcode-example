@@ -2,6 +2,8 @@
 
 Daum에서 제공하는 우편번호/주소 검색 API를 Vue로 작성한 Single File Component에서 활용하는 예제입니다. 
 
+[공식 사용 가이드](http://postcode.map.daum.net/guide)에서 제공된 plain javascript 예제를 Vue에 맞게 변형했습니다.
+
 ## Web Component
 결과를 Web Component로 build한 결과를 함께 제공합니다.
 
